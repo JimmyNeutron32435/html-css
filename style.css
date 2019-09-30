@@ -1,0 +1,42 @@
+p {
+	
+	color: black;
+	margin: 0;
+
+}
+
+		h1 {
+			color: black;
+			font-family: Roboto;
+			font-size: 36px;
+
+}
+
+		h2 {
+			color: black;
+			font-family: Roboto;
+			font-size: 36px;
+
+}
+		div {
+			color: black;
+			font-family: Roboto;
+			font-size: 24px
+
+}
+		ul {
+			color: black;
+			font-family: Roboto;
+			font-size: 32px
+
+}
+		li {
+			color: black;
+			font-family: Roboto;
+			font-size: 32px
+
+}
+ 		.website{
+ 			width: 600px
+ 			margin: 0 auto;
+ 		}
