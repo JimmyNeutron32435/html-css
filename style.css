@@ -1,42 +1,48 @@
-p {
-	
-	color: black;
-	margin: 0;
+h1 {
+  	font-size: 36px;
+	font-family: Roboto
+	line-height: 36px;
+}
+p{
+	font-size:20px;
+	font-family: Roboto
+	line-height: 26px;
 
 }
-
-		h1 {
-			color: black;
-			font-family: Roboto;
-			font-size: 36px;
-
-}
-
-		h2 {
-			color: black;
-			font-family: Roboto;
-			font-size: 36px;
+h2{
+	font-size:24px;
+	font-family: Roboto
+	line-height: 32px;
 
 }
-		div {
-			color: black;
-			font-family: Roboto;
-			font-size: 24px
+div{
+	font-size:20px;
+	font-family: Roboto
+}
+h3{
+	font-size:32px;
+	font-family: Roboto
+	line-height: 32px;
+}
+.margewebsite{
+  width: 600px;
+  margin: 0 auto; 
 
 }
-		ul {
-			color: black;
-			font-family: Roboto;
-			font-size: 32px
+.Tip{
+	background-color: #def6ed;
+	font-family: Roboto
+	line-height: 26px;
+	font-size: 17px;
 
 }
-		li {
-			color: black;
-			font-family: Roboto;
-			font-size: 32px
-
+h4{
+	font-size: 20px;
+	font-family: Roboto;
+	text-align: left;
 }
- 		.website{
- 			width: 600px
- 			margin: 0 auto;
- 		}
+h5{
+	font-size: 20px;
+	font-family: Roboto;
+	text-align: right;
+}
